@@ -1,6 +1,6 @@
-# Guía de conexiones de hardware — Captura de voz inalámbrica con ESP32
+GUÍA ESP-32
 
-Nov 10, 2026 · @Jeronimo
+
 
 ## Reglas
 
