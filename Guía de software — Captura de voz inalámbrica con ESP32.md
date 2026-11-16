@@ -1,8 +1,6 @@
 # Guía de software — Captura de voz inalámbrica con ESP32
 
-## Resumen
 
-Al final tendrás el ESP32 funcionando como micrófono Bluetooth con reducción de ruido, conectado al PC, y las mediciones de SNR que lo demuestran. Requisito: el hardware armado y verificado con la guía de conexiones.
 
 | Etapa | Qué se hace | Códigos | Entorno |
 | --- | --- | --- | --- |
