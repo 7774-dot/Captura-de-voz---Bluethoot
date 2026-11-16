@@ -161,7 +161,6 @@ El ESP32 filtra el ruido y envía al PC, por el cable USB, dos canales a la vez:
 2. Guarda como `grabador_serial` en tu carpeta del proyecto.
 3. A la derecha de la pestaña del código, haz clic en los **tres puntos (⋮) → Nueva pestaña**. Escribe el nombre exacto `filtro_ruido.h` y acepta.
 4. En esa pestaña pega el código 2 y guarda (Ctrl+S).
-5. Si solo tienes un micrófono, en el código 3 cambia `USAR_DOS_MICROFONOS = true` por `false`.
 
 **Código 2: `filtro_ruido.h`** (el filtro; también lo usa el código 6)
 
