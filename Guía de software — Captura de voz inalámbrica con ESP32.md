@@ -16,7 +16,7 @@ Al final tendrás el ESP32 funcionando como micrófono Bluetooth con reducción 
 
 No pases a una etapa sin cumplir la verificación de la anterior.
 
-Ten en cuenta: los códigos de Python y el filtro se probaron con audio simulado. Los de Arduino y ESP-IDF no se pudieron compilar antes de entregarlos; si aparece un error, cópialo completo y pídeme la corrección.
+ los códigos de Python y el filtro se probaron con audio simulado. Los de Arduino y ESP-IDF no se pudieron compilar antes de entregarlos; si aparece un error, cópialo completo y pídeme la corrección.
 
 ## Etapa 0: Instalar el software
 
