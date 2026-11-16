@@ -12,9 +12,6 @@
 | 5 | Conectar al PC y grabar por Bluetooth | — | Windows + Audacity |
 | 6 | Pruebas finales | 5 | Python |
 
-No pases a una etapa sin cumplir la verificación de la anterior.
-
- los códigos de Python y el filtro se probaron con audio simulado. Los de Arduino y ESP-IDF no se pudieron compilar antes de entregarlos; si aparece un error, cópialo completo y pídeme la corrección.
 
 ## Etapa 0: Instalar el software
 
